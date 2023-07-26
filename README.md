@@ -9,7 +9,7 @@
 ## Installation process
 1. #### clone the repo using this command
     ```bash
-    git clone https://github.com/ashraf-kabir/mern-ecommerce.git
+    git clone https://github.com/hopebaba1102/Mern-Stack-Ecommerce.git
     ```
 2. #### install npm packages
     1. install backend packages
@@ -81,4 +81,3 @@
     9. admin can change the status of a product (processing, shipped, delivered, etc.)
 
 6. <b>Deployed on</br> https://ecommerce-ak.herokuapp.com/ 
-7. raise a star to support me
