@@ -1,9 +1,7 @@
-# mern-ecommerce
-
+# Mern-Stack-Ecommerce
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-HopeTeam-red)
 > Frontend-> React JS
-
 > Backend-> Node JS & Express JS
-
 > Database-> MongoDB
 
 ## Installation process
